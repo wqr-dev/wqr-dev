@@ -1,5 +1,3 @@
-# 👨‍💻 Muhammad Waqar
-
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQErl9P3wmSn3Q/profile-displaybackgroundimage-shrink_350_1400/B4DaAHJlfIIIAU-/0/1786826348865?e=1788393600&v=beta&t=lFgUdJeg0XmFAMpNWsRHw8teJ0_gmzsdKT8YMYrHRMI" width="100%" />
 </p>
