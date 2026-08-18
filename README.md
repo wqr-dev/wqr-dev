@@ -13,16 +13,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://www.linkedin.com/in/muhammad-wqr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/wqr-dev">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:waqarali09618@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=wqr-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -51,7 +54,7 @@ I'm particularly interested in opportunities where I can **learn, contribute, an
 * 🧩 Application architecture
 * 🌿 Git & GitHub
 * 🚀 Application deployment
-* 🤖 Exploring AI-assisted development
+* 🤖 AI-assisted development
 
 ---
 
@@ -66,7 +69,7 @@ The project focuses on game logic, interactive UI, user experience, and mobile a
 ### 🛠️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
 ### 🎯 Project Highlights
@@ -195,6 +198,16 @@ An e-commerce web application focused on product browsing, categories, shopping 
 
 ---
 
+## 📍 APIs & Services
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
 # 🏗️ How I Build
 
 I try to approach software development as a complete process rather than simply writing code.
@@ -231,7 +244,7 @@ My goal is to build applications that are:
 
 ---
 
-# 📚 What I'm Currently Learning
+# 📚 Currently Learning
 
 | Area                      | Focus                                       |
 | :------------------------ | :------------------------------------------ |
@@ -273,7 +286,33 @@ I'm always interested in **internships, junior developer opportunities, freelanc
 
 ---
 
-# 📊 Development Philosophy
+# 📊 Development Experience
+
+| Area                      | Focus                               |
+| :------------------------ | :---------------------------------- |
+| 📱 **Mobile Development** | Flutter & Dart                      |
+| 🌐 **Web Development**    | React, JavaScript, HTML, CSS        |
+| 🔥 **Backend**            | Firebase & Supabase                 |
+| 🗄️ **Database**          | Firestore, Supabase, MySQL          |
+| 🔐 **Authentication**     | Firebase Authentication             |
+| 🔔 **Notifications**      | Firebase Cloud Messaging            |
+| 📍 **Location**           | Google Maps & location services     |
+| 🎨 **UI Development**     | Responsive & interactive interfaces |
+| 🏗️ **Architecture**      | Structured application development  |
+| 🌿 **Version Control**    | Git & GitHub                        |
+| 🚀 **Deployment**         | Mobile & web deployment             |
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wqr-dev&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+# 🧠 Development Philosophy
 
 I believe software development is more than just writing code.
 
@@ -317,37 +356,75 @@ When I'm not developing applications, I enjoy exploring:
 
 ---
 
-# 📈 GitHub Activity
+# 🤝 Open to Collaboration
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
+I'm always interested in connecting with developers, designers, companies, recruiters, and people working on interesting technology projects.
+
+If you're working on something interesting or have an idea worth building, feel free to connect.
+
+### 💡 Open to:
+
+* 🤝 Collaborations
+* 💼 Internships
+* 🚀 Software projects
+* 📱 Mobile app development
+* 🌐 Web development
+* 💻 Freelance opportunities
+* 🧠 Learning opportunities
 
 ---
 
 # 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/wqr-dev">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+
+  <a href="https://www.linkedin.com/in/muhammad-wqr/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+
+  <a href="mailto:waqarali09618@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 💬 Open to Opportunities
+# ⭐ Support My Work
 
-I'm always happy to connect with developers, companies, recruiters, and people working on interesting technology projects.
+If you find any of my projects useful or interesting, consider giving them a ⭐.
 
-If you're interested in **collaboration, internships, freelance development, or software projects**, feel free to reach out.
+It helps people discover my work and motivates me to continue building and learning.
+
+<p align="center">
+  <b>Found something useful? Give it a ⭐ and share it with other developers! 🌟</b>
+</p>
 
 ---
+
+# 💬 Have an Idea?
+
+Have an idea for an application, feature, or collaboration?
+
+Feel free to reach out through GitHub or LinkedIn.
+
+I'd love to hear about it. 🚀
+
+<p align="center">
+  <b>Build together. Learn together. Improve together. ❤️</b>
+</p>
+
+---
+
+# ✨ Final Note
+
+Every project starts with an idea.
+
+Every bug is an opportunity to learn.
+
+Every release is a step forward.
 
 <p align="center">
   <b>Build. Learn. Ship. Improve. 🚀</b>
